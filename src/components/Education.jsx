@@ -3,7 +3,7 @@ import React from 'react';
 const Education = () => {
   const qualifications = [
     {
-      degree: 'Secondary Education',
+      degree: 'Schooling',
       institution: 'Tagore Senior Secondary School',
       year: '2008 - 2021',
     },
