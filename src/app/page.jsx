@@ -2,7 +2,7 @@ import Herosection from "@/components/Herosection.jsx";
 import Navbar from "../components/Header.jsx";
 import Education from "@/components/Education.jsx";
 import Skills from "@/components/Skill.jsx";
-
+import PulkitC from "@/components/PulkitC.jsx"
 
 
 
@@ -13,6 +13,7 @@ export default function Home() {
       <Herosection/>
       <Education/>
       <Skills/>
+      {/* <PulkitC/> */}
     </main>
   );
 }
