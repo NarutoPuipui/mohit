@@ -7,7 +7,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-black text-white p-4">
+    <nav className="overflow-x-hidden bg-black text-white p-4">
       <div className="flex justify-between items-center">
         
         <div className="md:hidden">
